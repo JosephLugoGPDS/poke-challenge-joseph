@@ -1,0 +1,13 @@
+{
+  "appName": "Poke App",
+  "search": "Search",
+  "findYourPokemon": "Find Your Pokemon",
+  "searchPokemon": "Search Pokémon",
+  "height": "Height",
+  "weight": "Weight",
+  "stats": "Stats",
+  "abilities": "Abilities",
+  "type": "Type",
+  "evolutions": "Evolutions",
+  "moves": "Moves"
+}
